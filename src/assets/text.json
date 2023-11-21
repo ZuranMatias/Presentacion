@@ -1,0 +1,38 @@
+{
+  "navbar": {
+    "projects": {
+      "Spanish": "Proyectos",
+      "English": "Projects"
+    },
+    "contact": {
+      "Spanish": "Informacion de Contacto",
+      "English": "Contact Information"
+    },
+    "skills": {
+      "Spanish": "Habilidades",
+      "English": "Skills"
+    },
+    "about": {
+      "Spanish": "Quien Soy",
+      "English": "About Me"
+    },
+    "academicTraining": {
+      "Spanish": "Formacion Academica",
+      "English": "Academic Training"
+    },
+    "settings": {
+      "Spanish": "Opciones",
+      "English": "Settings"
+    }
+  },
+  "sliders": {
+    "themeSlider": {
+        "Spanish": "Modo Oscuro",
+        "English": "Dark Theme"
+    },
+    "languageSlider": {
+        "Spanish": "Switch to English",
+        "English": "Cambiar a Español"
+    }
+  }
+}
